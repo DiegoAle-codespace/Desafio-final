@@ -1,0 +1,12 @@
+# Archivos generados por .NET y editores.
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Datos locales: no publicar información de ciudadanos.
+expedientes.txt
+
+# Carpetas locales para pruebas aisladas.
+work/
